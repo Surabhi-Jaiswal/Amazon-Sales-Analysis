@@ -1,4 +1,3 @@
-```markdown
 # Amazon Sales Dataset - Exploratory Data Analysis (EDA)
 
 ## Project Overview 📊
